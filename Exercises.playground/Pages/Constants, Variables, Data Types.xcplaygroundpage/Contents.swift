@@ -73,7 +73,9 @@ var favouriteHobby = "WatchingMovie"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
+print("An immutable object cannot be updated or changed.")
+print("A constant is immutable")
+print("while a variable is mutable")
 
 /*:
  ### Question 5
