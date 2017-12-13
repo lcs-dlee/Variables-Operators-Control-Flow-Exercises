@@ -50,7 +50,12 @@ let NovemberReportCardGrade = 95
  
  */
 // Answer Question 2 below
-
+let myAge: Int
+myAge = 18
+let otherAge: Double
+otherAge = 40.0
+let averageAge: Double
+averageAge = (Double(myAge) + otherAge) / 2
 
 /*:
  ### Question 3
