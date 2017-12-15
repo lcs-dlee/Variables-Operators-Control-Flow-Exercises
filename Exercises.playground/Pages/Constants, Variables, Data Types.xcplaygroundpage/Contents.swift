@@ -106,8 +106,10 @@ let randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
-
-
+var thisYear = 2017
+let favouriteSong = "Row, row, row your boat"
+//thisYear = favouriteSong
+print("It is syntax error. It shows that it has the syntax error because thisYear is 'integer' and favouriteSong is 'string'")
 /*:
  ### Question 7
  
