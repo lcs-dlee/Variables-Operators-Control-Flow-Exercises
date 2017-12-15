@@ -108,7 +108,7 @@ let randomDemand = 1_000_000
 // Answer Question 6 below
 var thisYear = 2017
 let favouriteSong = "Row, row, row your boat"
-//thisYear = favouriteSong
+// thisYear = favouriteSong
 print("It is syntax error. It shows that it has the syntax error because thisYear is 'integer' and favouriteSong is 'string'")
 /*:
  ### Question 7
@@ -118,7 +118,7 @@ print("It is syntax error. It shows that it has the syntax error because thisYea
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
+print("Swift requires the programmer to know what data types she is working with. For example, a variable that has a type that is a String will always be a String and can only contain text, it can never hold a number")
 
 
 
