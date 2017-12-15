@@ -86,7 +86,7 @@ print("while a variable is mutable")
  
  */
 // Answer Question 5 below
-
+let randomDemand = 1_000_000
 /*:
  ### Question 6
  
